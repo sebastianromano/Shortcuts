@@ -7,9 +7,9 @@ From Wikipedia:
 > Shortcuts (formerly Workflow) is a visual scripting application developed by Apple and provided on its iOS, iPadOS, macOS, and watchOS operating systems. It allows users to create macros for executing specific tasks on their device(s).
 > Shortcuts are activated manually through the app, shortcut widgets, the share sheet, and Siri. They can also be automated to trigger after an event, such as the time of day, leaving a set location, or opening an app.
 
-I've found Shortcuts to be the easiest visual programming language to draft various application ideas. Instead of writing, drawing, mapping the ideas down, it is far easier to create a visual and fully functional application within minutes - and as a bonus, I've found other less tech-savvy to be much more receptive towards my ideas because they can *see* them. 
+I've found Shortcuts to be the easiest and quickest visual programming language to draft various application ideas. Instead of writing, drawing, mapping the ideas down, it is far easier to create a visual and fully functional application within minutes - and as a bonus, I've found other less tech-savvy to be much more receptive towards my ideas because they can *see* them.
 
-The Shortcuts are available for free — and if you're trying to quit smoking, drinking (less) caffeine, or whatever habit you want to get rid of, you can sponsor my continued work on open-source projects here: paypal.me/sebastianromano. Thanks!
+The Shortcuts are *available for free* — and if you're trying to quit smoking, drinking (less) caffeine, or whatever habit you want to get rid of, you can sponsor my continued work on open-source projects here: [PayPal.me](paypal.me/sebastianromano). Thanks!
 
 ---
 ## Resources:
