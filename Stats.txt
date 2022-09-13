@@ -1,2 +1,2 @@
-Total Shortcuts: 31
-- Action count: 1021
+Total Shortcuts: 43
+- Action count: 1556
