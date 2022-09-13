@@ -9,7 +9,7 @@ From Wikipedia:
 
 I've found Shortcuts to be the easiest and quickest visual programming language to draft various application ideas. Instead of writing, drawing, mapping the ideas down, it is far easier to create a visual and fully functional application within minutes - and as a bonus, I've found other less tech-savvy to be much more receptive towards my ideas because they can *see* them.
 
-The Shortcuts are *available for free* — and if you're trying to quit smoking, drinking (less) caffeine, or whatever habit you want to get rid of, you can sponsor my continued work on open-source projects here: [PayPal.me](paypal.me/sebastianromano). Thanks!
+The Shortcuts are *available for free* — and if you're trying to quit smoking, drinking (less) caffeine, or whatever habit you want to get rid of, you can sponsor my continued work on open-source projects here: [paypal](https://paypal.me/sebastianromano/). Thanks!
 
 ---
 ## Resources:
