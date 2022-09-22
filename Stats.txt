@@ -1,3 +1,3 @@
-Total Shortcuts: 49
-- Action count: 1607
-- Last modified: 2022-09-22
+Total Shortcuts: 50
+- Action count: 1621
+- Last modified: 2022-09-22T19:54:00+02:00
