@@ -15,7 +15,7 @@ The Shortcuts are *available for free* — and if you're trying to quit smoking,
 ## Stats
 - Total Shortcuts: 67
 - Action count: 1835
-- Last modified: 2022-09-30T18:00:00+02:00
+- Last modified: 2022-09-30T18:03:00+02:00
 
 ---
 ## Resources:
