@@ -12,6 +12,12 @@ I've found Shortcuts to be the easiest and quickest visual programming language 
 The Shortcuts are *available for free* — and if you're trying to quit smoking, drinking (less) caffeine, or whatever habit you want to get rid of, you can sponsor my continued work on open-source projects here: [paypal](https://paypal.me/sebastianromano/). Thanks!
 
 ---
+## Stats
+- Total Shortcuts: 67
+- Action count: 1835
+- Last modified: 2022-09-30T17:41:56+02:00
+
+---
 ## Resources:
 - [Download Shortcuts on the App Store](https://apps.apple.com/us/app/id915249334)
 - Shortcuts User Guide
@@ -20,4 +26,4 @@ The Shortcuts are *available for free* — and if you're trying to quit smoking,
 - [Shortcuts on Reddit (unofficial)](https://www.reddit.com/r/shortcuts/)
 - [Shortcuts (Apple Support) on YouTube](https://www.youtube.com/c/applesupport/search?query=shortcuts)
 - [Shortcuts on the Swift website](https://swift.org/shortcuts/)
-- [Shortcuts on the Swift Forums](https://forums.swift.org/c/development/shortcuts)
+- [Shortcuts on the Swift Forums](https://forums.swift.org/c/development/shortcuts) 
